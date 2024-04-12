@@ -1,6 +1,6 @@
 # QLoRA notes
 
-[1. QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)](https://www.youtube.com/watch?v=XpoKB3usmKc)  
+[1. QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)](https://www.youtube.com/watch?v=XpoKB3usmKc) (YouTube)    
 
 [2. QLoRA（Quantized LoRA）详解](https://zhuanlan.zhihu.com/p/666234324)   
 
