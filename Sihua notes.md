@@ -10,4 +10,6 @@
 
 [5. LLM微调方法总结：Freeze方法/P-Tuning/LoRA及QLoRA](https://www.bilibili.com/video/BV1MH4y1Y7wW/?spm_id_from=333.337.search-card.all.click) B站   
 
+[6. QLoRA paper explained (Efficient Finetuning of Quantized LLMs)](https://www.youtube.com/watch?v=6l8GZDPbFn8) YouTube  
+
 
